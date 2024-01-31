@@ -1,3 +1,4 @@
 # Project_Demo
-This is my first project repository
-Author By Mahesh Bhadane and its Tableau Based Data Visualization
+This is my first project repository and its Tableau Based Data Visualization
+<br>
+Author By Mahesh Bhadane
